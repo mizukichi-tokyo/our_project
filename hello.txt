@@ -1,3 +1,4 @@
 Hello GitHub heyhey
 my name is Mizuki Kubota.
 I like Vim.
+I hate emacs.
